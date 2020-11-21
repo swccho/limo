@@ -150,7 +150,7 @@
         nav: false,
         checkvisible:true
     });
-});
+    });
 </script>
     
 </body>

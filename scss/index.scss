@@ -1,0 +1,85 @@
+$red: #fd4326;
+$black:#000;
+$blackish:#333;
+$dark:#212529;
+$light:#f8f9fa;
+$grey: lightgrey;
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+// Preloader
+
+    @import 'components/preloader';
+
+// Preloader
+
+// Top nav
+
+    @import 'components/wasp';
+
+// Top nav
+
+// navbar
+
+    @import 'components/main_nav';
+
+// 
+
+// header
+
+    @import 'components/header';    
+
+// header
+
+// SlideBottom
+
+    @import 'components/slidebottom';
+
+// SlideBottom
+
+// Services
+
+    @import 'components/services';
+
+// Services
+
+// software_and_Mobile
+
+    @import  'components/software_and_Mobile';
+
+// software_and_Mobile
+    
+ 
+// GROW
+
+@import  'components/grow';    
+
+// GROW
+    
+// REVENUE
+
+    @import 'components/revenue';
+
+// REVENUE
+    
+// Options
+
+    @import 'components/options';
+
+// Options
+   
+// TESTIMONIALS
+
+    @import 'components/testimonials';
+
+// TESTIMONIALS
+
+// FOOTER
+
+    @import 'components/footer';
+
+// FOOTER
+    

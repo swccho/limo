@@ -1,0 +1,66 @@
+.software_and_Mobile{
+    position: relative;
+        .line0_1{
+            position: absolute;
+            top: 70px;
+            left: 13%;
+            width: 150px;
+            height: 0.5px;
+            border: 1px solid black;
+        }
+        .box0_1{
+            position: absolute;
+            top: 63.5px;
+            left: 23%;
+            width: 15px;
+            height: 15px;
+            background-color: black;
+            border: 1px solid black;
+        }
+        .line0_2{
+            position: absolute;
+            top: 68px;
+            left: 75%;
+            width: 150px;
+            height: 0.5px;
+            border: 1px solid black;
+        }
+        .box0_2{
+            position: absolute;
+            top:62px;
+            left: 75%;
+            width: 15px;
+            height: 15px;
+            background-color: black;
+            border: 1px solid black;
+        }
+        .Pricing{
+            .row{
+                .col{
+                    .hder{
+                        font-size: 30px;
+                        font-family: sans-serif;
+                    }
+                    .us{
+                        font-size: 16px;
+                        font-weight: 300;
+                        line-height:30px;
+                        margin: 0 0 30px 0;
+                    }
+                    button{
+                        border: none;
+                        border-radius: 5px;
+                        background-color: $red;
+                        color: $light;
+                        padding: 10px 20px 10px 20px;
+                    }
+                    button:hover{
+                        color: $light;
+                        transition: .2s;
+                        background-color: $dark;
+                    }
+                }
+            }
+        }
+
+}

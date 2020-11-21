@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body .preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  /* change if the mask should have another color then white */
+  z-index: 99;
+  /* makes sure it stays on top */
+}
+
+body .preloader #status {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  left: 8%;
+  /* centers the loading animation horizontally one the screen */
+  top: 10%;
+  /* centers the loading animation vertically one the screen */
+  background-image: url(https://freefrontend.com/assets/img/css-loaders/loader-4.gif);
+  /* path to your loading animation */
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: -100px 0 0 -100px;
+  /* is width and height divided by two */
+}
+
+body .wasp {
+  height: 8vh;
+}
+
+body .wasp .container-fluid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  position: relative;
+}
+
+body .wasp .container-fluid .top1 {
+  padding-top: 2px;
+}
+
+body .wasp .container-fluid .top2 {
+  position: absolute;
+  left: 68%;
+  float: right;
+}
+
+body .main-navbar {
+  background-color: white;
+  position: relative;
+  width: 100%;
+  height: 100px;
+}
+
+body .main-navbar .logo {
+  font-size: 40px;
+  position: absolute;
+  left: 10%;
+  top: 18%;
+}
+
+body .main-navbar .nav-items {
+  width: 100%;
+  height: 15vh;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  left: 10%;
+}
+
+body .main-navbar .nav-items .nav-item {
+  position: relative;
+  top: 25%;
+  display: inline-block;
+}
+
+body .main-navbar .nav-items .nav-item .nav-link {
+  color: black;
+  font-size: 14px;
+  border-right: 1px solid grey;
+  padding: none;
+  height: 100%;
+  padding: 10px;
+  position: relative;
+}
+
+body .main-navbar .nav-items .nav-item .nav-link .fa-caret-down {
+  position: absolute;
+  left: 50%;
+  top: 80%;
+}
+
+body .main-navbar .nav-items .nav-item .nav-link.active {
+  color: #fd4326;
+}
+
+body .main-navbar .nav-items .nav-item .nav-link:hover {
+  display: block;
+}
+
+body .main-navbar .nav-items .nav-item .nav-link:hover {
+  color: #fd4326;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+body .main-navbar .nav-items .nav-item .dbtn {
+  background-color: #fd4326;
+  border: 1px solid  #fd4326;
+  color: white;
+  border-radius: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+body .main-navbar .nav-items .nav-item .dbtn:hover {
+  background-color: #25272b;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border: 1px solid #25272b;
+}
+
+body .main-navbar .nav-items .nav-item:last-child {
+  margin-left: 20px;
+}
+/*# sourceMappingURL=index.css.map */

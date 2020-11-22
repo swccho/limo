@@ -1,0 +1,52 @@
+$red: #fd4326;
+$black:#000;
+$blackish:#333;
+$dark:#212529;
+$light:#f8f9fa;
+$grey: lightgrey;
+$greyish:#ebebeb;
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+// Preloader
+
+@import 'components/preloader';
+
+// Preloader
+
+// Top nav
+
+    @import 'components/wasp';
+
+// Top nav
+
+// navbar
+
+    @import 'components/main_nav';
+
+// 
+
+// header
+
+    @import 'components/dispatchheader';
+
+//
+// dispatchbrand
+
+    @import 'components/dsipatchbranded';
+
+//
+
+// software
+
+@import 'components/software_and_Mobile';
+
+//
+
+// footer
+
+@import 'components/footer';
+
+// 

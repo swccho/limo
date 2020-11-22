@@ -10,6 +10,10 @@
 
 <!-- =================== -->
 
+<!-- CSS -->
+    <link rel="stylesheet" href="css/index.css?id=<?php echo uniqid()?>">
+<!-- CSS -->
+
 </head>
 <body>
 
@@ -125,33 +129,34 @@
     ?>
     <!-- ================= -->
         
-
+    <script src="javascript/jscomponents/preloader.js"></script>
+    <script src="javascript/jscomponents/navbar.js"></script>
     <script src="javascript/index.js?id=<?php echo uniqid()?>"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/js/swiper.min.js"></script>
-<script>
-      var swiper = new Swiper('.header_swiper', {
-        slidesPerView: 1,
-        autoplay:true,
-        loop:true,
-        pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-        
-      },
-    });
+    <script>
+        var swiper = new Swiper('.header_swiper', {
+            slidesPerView: 1,
+            autoplay:true,
+            loop:true,
+            pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+            
+        },
+        });
 
-    $(document).ready(function(){
-    $("#owl-demo").owlCarousel({
-        items:1,
-        loop: true,
-        autoplay:true,
-        autoplaySpeed: 1000,
-        dots: true,
-        nav: false,
-        checkvisible:true
-    });
-    });
-</script>
+        $(document).ready(function(){
+        $("#owl-demo").owlCarousel({
+            items:1,
+            loop: true,
+            autoplay:true,
+            autoplaySpeed: 1000,
+            dots: true,
+            nav: false,
+            checkvisible:true
+        });
+        });
+    </script>
     
 </body>
 </html>

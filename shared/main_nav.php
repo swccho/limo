@@ -2,7 +2,7 @@
         <div class="logo">LOGO</div>
         <ul class="nav-items container text-right">
                 <li class="nav-item ">
-                    <a id="home" href="#" class="nav-link active" onclick="active(1)">HOME</a>
+                    <a id="home" href="http://localhost/projects/limo/index.php" class="nav-link active" onclick="active(1)">HOME</a>
                 </li>
                 <li class="nav-item">
                     <a id="product" href="#" class="nav-link product" onclick="active(2)">PRODUCTS
@@ -10,12 +10,12 @@
                     </a>
                     
                     <div class="card card0 text-left animate__animated animate__fadeIn"  style="display:none">
-                            <a href="#">Dispatch Software</a>
+                            <a href="http://localhost/projects/limo/php/dispatch.php">Dispatch Software</a>
                             <a href="#"> Booking Software</a>
                             <a href="#"> Passenger Apps</a>
                             <a href="#"> Driver App</a>
                             <a href="#">Website / CMS</a>
-                            <a href="#">Addons.LA</a>
+                            
                         
                     </div>
                     

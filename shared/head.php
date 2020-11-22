@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>HOME</title>
+<title>Limo Software and Livery Dispatch - Booking, Scheduling, and Reservation Management | Limo Anywhere</title>
 
 <!-- Bootstrap & Jquery -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -9,9 +9,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <!-- Bootstrap & Jquery -->
 
-<!-- CSS -->
-    <link rel="stylesheet" href="css/index.css?id=<?php echo uniqid()?>">
-<!-- CSS -->
+
 
 <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

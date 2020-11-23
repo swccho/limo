@@ -1,0 +1,45 @@
+header{
+    background-image: url(https://s3.amazonaws.com/the-drive-staging/message-editor%2F1492642644846-160301_alfa-romeo_ginevra-giulia_07.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+    width: 100%;
+    position: relative;
+    .shed{
+        width: 100%;
+        height:120vh;
+        background-color: $dark;
+        opacity: .6;
+        position: absolute;
+        top: 0;
+    }
+    .container{
+        .row{
+            .col-md-6{
+                h1{
+                    font-weight: bolder;
+                    color: $red;
+                }
+                .list{
+                    ul{
+                        font-size: 18px;
+                        font-family: sans-serif;
+                    }
+                }
+                .row{
+                    .col-md-6{
+                        .btn{
+                            border: 2px solid $red;
+                            color: white;
+                            background-color: $red;
+                            font-size: 18px;
+                            font-weight: bold;
+                            padding: 15px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

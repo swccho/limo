@@ -1,0 +1,17 @@
+.wasp{
+    background-color: $dark;
+    height: 8vh;
+    .container-fluid{
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        .top1{
+            padding-top: 2px;
+        }    
+        .top2{
+                position: absolute;
+                left: 68%;
+                float: right;
+            }
+    }
+}

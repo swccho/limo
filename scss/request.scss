@@ -1,0 +1,47 @@
+  $red: #fd4326;
+  $black:#000;
+  $blackish:#333;
+  $dark:#212529;
+  $light:#f8f9fa;
+  $grey: lightgrey;
+  $greyish:#ebebeb;
+  body{
+    margin: 0;
+    padding: 0;
+
+  }
+// Preloader
+
+  @import 'components/preloader';
+
+// Preloader
+
+// Top nav
+
+  @import 'components/wasp';
+
+// Top nav
+
+// navbar
+
+  @import 'components/main_nav';
+
+//navbar
+
+// RequestDemo
+
+  @import 'components/requestdemo';
+
+//RequestDemo
+
+//  Testimonial
+
+  @import "components/testimonials";
+
+//  Testimonial
+
+// footer
+
+  @import 'components/footer';
+
+// footer

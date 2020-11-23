@@ -1,0 +1,82 @@
+.footer{
+    background-color: $blackish;
+        .container{
+            .row{
+                .col-sm-3{
+                    .fHeader{
+                        font-size: 25px;
+                        
+                    }
+                    .linkList{
+                        a{
+                            margin-top: 20px;
+                            color: grey;
+                            text-decoration: none;
+                            
+                        }
+                        a:hover{
+                            color: $red;
+                            transition: .3s;
+                        }
+                    }
+                }
+                 .col1{
+                    height: 300px;
+                    border-left: 1px solid $grey;
+                }
+                .box2{
+                    .fHeader{
+                        font-size: 25px;
+                        
+                    }
+                    .listList{
+                       
+                               a{
+                                   font-size: 20px;
+                                   color: $grey;
+                                   text-decoration: none;
+                               }
+                               a:hover{
+                                   color: $red;
+                                   transition: .3s;
+                               }
+                               span{
+                                   i{
+                                       color: $red;
+                                   }
+                               }
+                           
+                    }
+                }
+                .col2{
+                    height: 300px;
+                    border-left: 1px solid $grey;
+                }
+            }
+        }
+    .lastFooter{
+        background-color: $dark;
+        .box{
+            .row{
+                .col-sm-2{
+                    h2{
+                        color: $light;
+                    }
+                }
+                .col-sm-7{
+                    color: $light;
+                    text-align: center;
+                    padding-top:2%;
+                        p{
+                            padding: 10px;
+                            border-radius: 10px;
+                            background-color: $blackish;
+                        }
+                }
+                .col-sm-3{
+                    padding-top:2% ;
+                }
+            }
+        }
+    }
+}

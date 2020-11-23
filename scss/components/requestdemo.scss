@@ -1,0 +1,83 @@
+.request{
+  background-color: $greyish;
+  width: 100%;
+  .requestHeader{
+    position: relative;
+    .line1_1{
+      position: absolute;
+      top: 73px;
+      left: 22%;
+      width: 150px;
+      height: 0.5px;
+      border: 1px solid black;
+    }
+    .box1_1{
+      position: absolute;
+      top: 66px;
+      left: 33%;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      border: 1px solid black;
+    }
+    .line1_2{
+      position: absolute;
+      top: 73px;
+      left: 67%;
+      width: 150px;
+      height: 0.5px;
+      border: 1px solid black;
+    }
+    .box1_2{
+      position: absolute;
+      top:66px;
+      left: 66%;
+      width: 15px;
+      height: 15px;
+      background-color: black;
+      border: 1px solid black;
+    }
+    h1{
+      text-align: center;
+      padding-top: 3.5%;
+    }
+  }
+  .requestBody{
+    .p1{
+      font-size: x-large;
+      font-family: serif;
+    }
+    form{
+      .form-group{
+        label{
+          padding-top: 10px;
+          font-size: 14px;
+          font-weight: 700;
+        }
+        input{
+          height: 50px;
+          line-height: 50px;
+        }
+        .Phone{
+          width: 50%;
+          line-height: 50px;
+        }
+        select{
+          height: 50px;
+          width: 2%;
+        }
+        .btn{
+            color: $light;
+            background-color:$red;
+            width: 30%;
+            font-size: 18px;
+            height: 50px;
+        }
+      }
+
+    }
+  }
+  .p2{
+    font-size: 15px;
+  }
+}

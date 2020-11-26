@@ -1,6 +1,6 @@
-<header class="swiper-container header_swiper">
-        <div class="swiper-wrapper">
-            <div class="image1 swiper-slide">
+<header class=" header_swiper">
+        <div class="owl-carousel header_carousel">
+            <div class="image1 item">
                 <div class="info container">
                     <h1 class=""><span class="redis">LIVERY </span><span class="text-light"> SOFTWARE </span></h1>
                     <p class="text-light">All The Software You Need To Run Your Limo Business From Anywhere, Anytime</p>
@@ -9,7 +9,7 @@
             </div>
             
             
-            <div class="image2 swiper-slide">
+            <div class="image2 item">
 
                 <div class="info container">
                         <h1 class=""><span class="redis">MOBILE </span><span class="text-light">APPS</span></h1>
@@ -19,7 +19,7 @@
 
             </div>
             
-            <div class="image3 swiper-slide">
+            <div class="image3 item">
 
                 <div class="info container">
                         <h1 class=""><span class="redis">PARTNER</span><span class="text-light"> NETWORKS</span></h1>
@@ -29,7 +29,7 @@
 
             </div>
             
-            <div class="image4 swiper-slide">
+            <div class="image4 item">
 
                 <div class="info container">
                         <h1 class=""><span class="redis">BUILD YOUR OWN </span><span class="text-light"> WEBSITE</span></h1>
@@ -40,5 +40,5 @@
             </div>
             
         </div>
-        <div class="swiper-pagination"></div>
+
     </header>

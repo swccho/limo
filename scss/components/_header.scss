@@ -1,5 +1,7 @@
+
 header{
-    
+    position: relative;
+    .header_carousel{
     
     .image1{
         
@@ -133,5 +135,25 @@ header{
                 
         }
         }
-        
+        .owl-dots{
+
+            width: 300px;
+            position: absolute;
+            top: 90%;
+            left: 44%;
+
+            z-index: 1000 !important;
+                .owl-dot{
+                    outline: none;
+                    width: 12px;
+                    height: 12px;
+                    border-radius: 50%;
+                    background-color:$grey;
+                    margin: 10px;
+                }
+            .active{
+                background-color:$red;
+            }
+        }
+    }
     }

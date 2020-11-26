@@ -1,10 +1,10 @@
 <div class="wasp">
         <div class="container-fluid">
             <div class="top1">
-                <button class="btn"><i class="fa fa-facebook text-secondary"></i></button>
-                <button class="btn"><i class="fa fa-twitter text-secondary" ></i></button>
-                <button class="btn"> <i class="fa fa-instagram text-secondary"></i></button>
-                <button class="btn"> <i class="fa fa-youtube text-secondary"></i></button>
+                <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+                <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+                <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+                <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
             </div>
             <div class="top2">
                 <ul class="nav text-center">

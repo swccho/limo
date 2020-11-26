@@ -35,10 +35,11 @@
                         height: 100%;
                         
                         position: relative;
-                            .fa-caret-down{
+                            img{
                                 position: absolute;
-                                left: 50%;
-                                top: 80%;
+                                top: 0;
+                                left:44%;
+                                top: 55%;
                             }
                             
                         &.active{

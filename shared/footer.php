@@ -72,10 +72,10 @@
                 <p> Copyright © 2018 Limo Anywhere, LLC. All rights reserved.</p>
                 </div>
                 <div class="col-sm-3">
-                    <button class="btn btn-secondary"><i class="fa fa-facebook"></i></button>
-                    <button class="btn btn-secondary"><i class="fa fa-twitter"></i></button>
-                    <button class="btn btn-secondary"><i class="fa fa-instagram"></i></button>
-                    <button class="btn btn-secondary"><i class="fa fa-youtube"></i></button>
+                    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+                    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+                    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+                    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
                 </div>
             </div>
         </div>

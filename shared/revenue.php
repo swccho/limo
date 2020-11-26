@@ -10,7 +10,7 @@
                 <div class="container-fluid  row pt-5">
                     <div class="col-md-4 ">
                         <div class="div1">
-                            <i class="fa fa-tablet"></i>
+                            <img src="https://img.icons8.com/wired/64/000000/ipad.png"/>
                         </div>
                         <div class="div2">
                             <p>Connect with the digital consumer with passenger mobile apps branded specifically to your business</p>
@@ -18,7 +18,7 @@
                     </div>
                     <div class="col-md-4 ">
                         <div class="div1">
-                            <i class="fa fa-desktop"></i>
+                            <img src="https://img.icons8.com/pastel-glyph/64/000000/monitor.png"/>
                         </div>
                         <div class="div2">
                             <p>Turn your website into a reservations engine with our state-of-the-art online reservations system</p>
@@ -26,7 +26,7 @@
                     </div>
                     <div class="col-md-4 ">
                         <div class="div1">
-                            <i class="fa fa-line-chart"></i>
+                            <img src="https://img.icons8.com/wired/64/000000/line-chart.png"/>
                         </div>
                         <div class="div2">
                             <p>Streamline your business with our booking, scheduling, dispatch, and reservation management system</p>
@@ -37,7 +37,7 @@
                 <div class="container-fluid  row">
                     <div class="col-md-4 ">
                         <div class="div1">
-                            <i class="fa fa-wifi"></i>
+                            <img src="https://img.icons8.com/ios-filled/64/000000/wifi.png"/>
                         </div>
                         <div class="div2">
                             <p>Communicate with drivers and track ride progress with our driver mobile app</p>
@@ -45,7 +45,7 @@
                     </div>
                     <div class="col-md-4 ">
                         <div class="div1">
-                            <i class="fa fa-circle-o-notch"></i>
+                            <img src="https://img.icons8.com/android/24/000000/steering-wheel.png"/>
                         </div>
                         <div class="div2">
                             <p>Build your global affiliate network with our integrated affiliate platform</p>
@@ -53,7 +53,7 @@
                     </div>
                     <div class="col-md-4 ">
                         <div class="div1">
-                            <i class="fa fa-credit-card"></i>
+                            <img src="https://img.icons8.com/wired/64/000000/mastercard-credit-card.png"/>
                         </div>
                         <div class="div2">
                             <p>Save money and get cash faster with our preferred merchant services partners</p>

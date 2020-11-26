@@ -6,7 +6,12 @@
         flex-wrap: wrap;
         position: relative;
         .top1{
-            padding-top: 2px;
+            padding-top: 10px;
+            img{
+              width: 20px;
+              height: 20px;
+              margin-left: 10px;
+            }
         }    
         .top2{
                 position: absolute;
